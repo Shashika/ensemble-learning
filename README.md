@@ -1,4 +1,4 @@
-# Ensemble-learning and random forest
+# Ensemble-learning and random forests
 
 The exercise discusses
 
